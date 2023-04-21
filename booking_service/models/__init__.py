@@ -1,0 +1,1 @@
+from booking_service.models.reservation import Reservation

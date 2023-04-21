@@ -1,0 +1,1 @@
+from booking_service.serializers.reservation_request import ReservationRequest
